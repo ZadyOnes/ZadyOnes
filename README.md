@@ -4,11 +4,11 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm ZadyOnes, a self-motivated tech enthusiast and trainee web developer.
+I'm ZadyOnes, a self-motivated tech enthusiast and web developer.
 </p>
 
 <h4 align="center">
-💻 trainee developer <a href="https://github.com/ZadyOnes">@ZadyOnes</a> | 🌱 building <a href="https://github.com/zadyones/">Restaurant App</a> | 💬 connect <a href="https://twitter.com/brianferreira123123123123_">@ZadyOnes</a>
+💻 developer <a href="https://github.com/ZadyOnes">@ZadyOnes</a> | 🌱 building <a href="https://github.com/zadyones/">Restaurant App</a> | 💬 connect <a href="https://twitter.com/brianferreira123123123123_">@ZadyOnes</a>
 </h4>
 <p  align="center">
 <a href="https://ZadyOnes.github.io/">https://zadyones.github.io</a>
