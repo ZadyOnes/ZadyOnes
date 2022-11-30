@@ -1,6 +1,11 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
+
+<!--<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>-->  
+
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
@@ -39,6 +44,5 @@ My Tech Stacks
  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brian.ferreira21@outlook.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
-
